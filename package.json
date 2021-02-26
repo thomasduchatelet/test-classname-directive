@@ -1,0 +1,27 @@
+{
+  "name": "ngx-test-class",
+  "version": "0.0.1",
+  "description": "Simple directive for adding a classname to the element that can be used for testing purposes",
+  "author": "Duchatelet Thomas",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomasduchatelet/test-classname-directive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thomasduchatelet/test-classname-directive/issues"
+  },
+  "homepage": "https://github.com/thomasduchatelet/test-classname-directive",
+  "keywords": [
+    "angular",
+    "typescript",
+    "directive"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^11.2.3",
+    "@angular/core": "^11.2.3"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
